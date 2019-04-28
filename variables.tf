@@ -1,0 +1,14 @@
+variable "bastion_min_size" {}
+variable "bastion_max_size" {}
+variable "node_min_size" {}
+variable "node_max_size" {}
+variable "node_instance_type" {}
+variable "master_instance_type" {}
+variable "bastion_instance_type" {}
+variable "env" {}
+variable "created_by" {}
+variable "dept" {}
+variable "bastion_ssh_port" {}
+variable "master_min_size" {}
+variable "master_max_size" {}
+variable "region" {}
