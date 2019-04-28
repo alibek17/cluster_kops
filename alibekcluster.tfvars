@@ -1,0 +1,14 @@
+bastion_min_size = 1
+bastion_max_size = 1
+node_min_size = 2
+node_max_size = 2
+node_instance_type = "t2.micro"
+master_instance_type = "t2.micro"
+bastion_instance_type = "t2.micro"
+env = "dev"
+created_by = "alibek"
+dept = "it"
+bastion_ssh_port = 22
+master_min_size = 1
+master_max_size = 1
+region = "eu-west-1"
